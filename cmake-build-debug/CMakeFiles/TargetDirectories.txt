@@ -1,0 +1,3 @@
+C:/Users/karab/CLionProjects/Inverntory_management_system/cmake-build-debug/CMakeFiles/Inverntory_management_system.dir
+C:/Users/karab/CLionProjects/Inverntory_management_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karab/CLionProjects/Inverntory_management_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
